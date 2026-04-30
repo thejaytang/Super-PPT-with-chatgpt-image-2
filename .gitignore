@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+images/
+super-ppt-images/
+super-ppt-visual.pptx
+super-ppt-editable.pptx
+super-ppt-manifest.json
+super-ppt-prompts.md
