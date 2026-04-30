@@ -18,6 +18,8 @@
 
 </div>
 
+<a id="中文说明"></a>
+
 <details>
 <summary><strong>中文说明，点击切换语言</strong></summary>
 
