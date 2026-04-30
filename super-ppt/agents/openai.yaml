@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super PPT"
+  short_description: "Plan and generate unified visual PPT decks"
+  default_prompt: "Use $super-ppt to plan and generate a visually consistent deck from my source content."
