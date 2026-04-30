@@ -1,0 +1,119 @@
+{
+  "deck": {
+    "title": "Product Strategy 2026",
+    "subtitle": "From scattered bets to compounding focus",
+    "language": "en",
+    "aspect_ratio": "16:9",
+    "generation_mode": "hybrid_editable_text"
+  },
+  "visual_system": {
+    "style_name": "executive product dashboard",
+    "palette": {
+      "background": "#F7F8FA",
+      "surface": "#FFFFFF",
+      "primary": "#1E4FD7",
+      "accent": "#18A999",
+      "text": "#111827",
+      "muted": "#667085",
+      "warning": "#F59E0B"
+    },
+    "typography": "modern sans-serif, crisp hierarchy, large title area, compact labels",
+    "ui_motif": "clean dashboard panels, thin dividers, status chips, restrained line icons",
+    "composition": "16:9 canvas, 12-column grid, generous margins, consistent title zone, strong focal area",
+    "image_style": "polished enterprise UI illustration with subtle depth",
+    "negative_rules": [
+      "no random logos",
+      "no unrelated colors",
+      "no decorative gradient blobs",
+      "no tiny paragraphs",
+      "no photorealistic clutter"
+    ]
+  },
+  "slides": [
+    {
+      "number": 1,
+      "role": "cover",
+      "title": "Product Strategy 2026",
+      "takeaway": "Focus turns scattered opportunities into compounding execution.",
+      "visual_intent": "Show many weak signals converging into one clear product direction.",
+      "content": [
+        "Focus",
+        "Sequencing",
+        "Execution"
+      ],
+      "editable_elements": [
+        {
+          "type": "text",
+          "text": "Product Strategy 2026",
+          "x": 0.75,
+          "y": 0.65,
+          "w": 8.5,
+          "h": 0.7,
+          "font_size": 34,
+          "bold": true,
+          "color": "#111827"
+        },
+        {
+          "type": "text",
+          "text": "From scattered bets to compounding focus",
+          "x": 0.78,
+          "y": 1.42,
+          "w": 8.2,
+          "h": 0.38,
+          "font_size": 15,
+          "color": "#667085"
+        }
+      ],
+      "qa_notes": [
+        "Check that the cover leaves clean title space",
+        "Check palette consistency"
+      ],
+      "prompt": "Create a premium 16:9 visual proof slide for a product strategy deck cover. Use a calm executive dashboard composition with abstract signal streams converging into one focused path. Leave a clean title area in the upper left for editable PowerPoint text. Do not render the final title text inside the image."
+    },
+    {
+      "number": 2,
+      "role": "framework",
+      "title": "Three Bets Drive the Strategy",
+      "takeaway": "The roadmap is easier to execute when each bet has a distinct job.",
+      "visual_intent": "Show three connected strategic bets as balanced, repeatable operating lanes.",
+      "content": [
+        "Core workflow",
+        "Expansion surface",
+        "Operating leverage"
+      ],
+      "editable_elements": [
+        {
+          "type": "text",
+          "text": "Three Bets Drive the Strategy",
+          "x": 0.72,
+          "y": 0.45,
+          "w": 8.8,
+          "h": 0.5,
+          "font_size": 28,
+          "bold": true,
+          "color": "#111827"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Core workflow",
+            "Expansion surface",
+            "Operating leverage"
+          ],
+          "x": 0.85,
+          "y": 5.35,
+          "w": 5.2,
+          "h": 1.25,
+          "font_size": 13,
+          "panel": true,
+          "color": "#111827"
+        }
+      ],
+      "qa_notes": [
+        "Check that the three lanes are visually balanced",
+        "Check that placeholder areas do not contain garbled text"
+      ],
+      "prompt": "Create a 16:9 visual proof slide showing three strategic lanes in a clean enterprise UI framework. Use three equal panels connected by subtle flow lines. Reserve top-left title space and lower-left editable text space. Use abstract placeholder blocks only, no final readable copy."
+    }
+  ]
+}
